@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510369776 source:e:\gitresp\arm_compile\arm_compile\main.cpp
+	<iostream>
+	<string.h>
+	"Cond.h"
+	"BaseUtil.h"
+	"DataHandle.h"
+
+1510324183 e:\gitresp\arm_compile\arm_compile\cond.h
+	<iostream>
+	<string.h>
+
+1510369788 e:\gitresp\arm_compile\arm_compile\baseutil.h
+	<iostream>
+	"DataHandle.h"
+	"BaseUtil.h"
+	"string.h"
+
+1510367940 e:\gitresp\arm_compile\arm_compile\datahandle.h
+	<iostream>
+	<string.h>
+
